@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2d9f3cf6799d9f443b61fbf46917bd1f
+labels:
+- USFX
+- mono
+- footstep
+- human
+- body
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

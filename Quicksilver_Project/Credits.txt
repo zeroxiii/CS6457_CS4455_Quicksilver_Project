@@ -1,0 +1,20 @@
+Credits
+
+Player laser: https://www.freesound.org/people/bubaproducer/sounds/151022/
+Player laser impact: https://www.freesound.org/people/Connum/sounds/11709/
+
+Bomb: https://www.assetstore.unity3d.com/en/#!/content/13147
+Bomb explode: https://www.freesound.org/people/cydon/sounds/268557/
+
+Battery: https://www.assetstore.unity3d.com/en/#!/content/36106
+
+Glass: https://www.youtube.com/watch?v=dA-MPeZ0HVM
+Glass break: https://www.freesound.org/people/LampEight/sounds/123628/
+
+Enemy death: https://www.freesound.org/people/AMVAclasssounds/sounds/150857/
+
+Brute punch hit: https://www.freesound.org/people/Ekokubza123/sounds/104183/
+Brute punch miss: https://www.freesound.org/people/lsprings/sounds/178259/
+
+Ninja sword hit: https://www.freesound.org/people/Erdie/sounds/27858/
+Ninja sword miss: https://www.freesound.org/people/PorkMuncher/sounds/263595/
